@@ -1,9 +1,19 @@
-# Book-Recommendation
+# Quora Sentiment Analysis
 
-Steps Implemented
-1. Data import
-2. Data cleaning and Preprocessing
-3. creating recommendation system
 
-# Libraries used 
-Python
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Demo
+
+Insert gif or link to demo
+
+file:///C:/Users/bhoom/Downloads/20241228171235.gif
+## Deployment
+
