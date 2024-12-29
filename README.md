@@ -26,10 +26,6 @@ Q: How the model works?
 
 ## Demo
 
-![20241228171235](https://github.com/user-attachments/assets/2d86b1b5-cf0f-44cb-ab1c-34e800b8e72f)
-
-
-
 https://github.com/user-attachments/assets/4a59d813-6277-4ae4-a597-f476e5069057
 
 
