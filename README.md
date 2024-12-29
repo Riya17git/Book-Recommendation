@@ -30,5 +30,9 @@ Q: How the model works?
 
 
 
+https://github.com/user-attachments/assets/4a59d813-6277-4ae4-a597-f476e5069057
+
+
+
 
 
